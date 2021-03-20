@@ -1,4 +1,15 @@
 # resume
-## My resume
+# My resume
+## Marcio Vincius Carneiro
+### Contact
 
-$%&$ This is my developer and hardware developer curriculum, I hope you enjoy it $&%$
+### Education
+
+### Personal projects
+
+
+### SKILLS
+
+
+### Languages
+
