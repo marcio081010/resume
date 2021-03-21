@@ -1,43 +1,45 @@
 # resume
 # My resume
 ## Marcio Vincius Carneiro
-### Contact
+### 🕸Contact
 marcio081010@outlook.com 
 
-### Education
+### 🕸Education
 Instituto Federal do Maranhão, MA, Brazil 09/02/2018 - 22/02/2021
+
 Technique: Electroelectronics
-### Personal projects
-Dual-rotating solar panel     https://www.tinkercad.com/things/3ha18b6vU6W
+
+### 🕸Personal projects
+📍Dual-rotating solar panel     https://www.tinkercad.com/things/3ha18b6vU6W
 
 .Dual rotation solar panel was made from C++ language
 
 .the design was only possible thanks to the arduino microcontroller that was used to work the project
 
-SmallFirewall-Peaceware      https://github.com/marcio081010/SmallFirewall-Peaceware
+📍SmallFirewall-Peaceware      https://github.com/marcio081010/SmallFirewall-Peaceware
 
 .SmallFirewall-Peaceware is a tool developed from C language with the bjetivo of fighting viruses and trojans in an easy to use and functional way
 
-### SKILLS
+### 🕸SKILLS
 
-.Python
+✔️ Python
 
-.SQL data base
+✔️ SQL data base
 
-.JAVA Script
+✔️ JAVA Script
 
-.C Programming
+✔️ C Programming
 
-.JAVA
+✔️ JAVA
 
-### Languages
+### 🕸Languages
 
-.English "Advanced"
+🌟 English "Advanced"
 
-.Spanish "Medio"
+🌟 Spanish "Medio"
 
-.Portuguese "Fluent"
+🌟 Portuguese "Fluent"
 
-.French "Basic"
+🌟 French "Basic"
 
-.Russian "Basic"
+🌟 Russian "Basic"
